@@ -29,12 +29,12 @@ Vrije Universiteit Brussel</i>
 </p>
 
 ## Dependencies
-
+```
 pip install numpy
 pip install pandas
 pip install matplotlib
 pip install seaborn
-
+```
 ## Support 
 
 Contact me:
