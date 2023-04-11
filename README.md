@@ -1,6 +1,6 @@
 # Undergraduate Thesis - Data Visualization
 
-Repository for map figures and Python code used for data analysis and visualization for my undergraduate thesis titled *Morphometric analysis of monogenetic volcanoes in the Macolod Corridor using MORVOLC and the sectorial approach*
+Repository of map figures and Python code used for data analysis and visualization for my undergraduate thesis titled *Morphometric analysis of monogenetic volcanoes in the Macolod Corridor using MORVOLC and the sectorial approach*
 
 ***This undergraduate thesis is pending publication***
 
