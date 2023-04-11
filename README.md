@@ -31,7 +31,7 @@ Vrije Universiteit Brussel</i>
 </p>
 
 ## Figures
-<p align="center"><img src="assets/figure_1.png"></img></p>
+<img align="center" src="assets/figure_1.png"></img><br>
 <p>Figure 1. Location map of the Macolod Corridor in southwestern Luzon. Boundaries of the Macolod Corridor were adapted from Förster et al. (1990). Outlines of monogenetic volcanoes are drawn in red.</p><br>
 <p align="center"><img src="assets/figure_5.png"></img></p>
 <p>Figure 5. Distribution of basal width (Wb) and height (H) of the 45 characterized monogenetic volcanoes in the Macolod Corridor.</p><br>
