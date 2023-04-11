@@ -2,7 +2,7 @@
 
 Repository for map figures and Python code used for data analysis and visualization for my undergraduate thesis titled *Morphometric analysis of monogenetic volcanoes in the Macolod Corridor using MORVOLC and the sectorial approach*
 
-***This undergraduate thesis is pending publication.***
+**This undergraduate thesis is pending publication**
 
 ## Title
 **Morphometric analysis of monogenetic volcanoes in the Macolod Corridor using MORVOLC and the sectorial approach**
@@ -31,9 +31,9 @@ Vrije Universiteit Brussel</i>
 </p>
 
 ## Figures
-<img align="center" src="assets/figure_1.png"></img>
+<p align="center"><img src="assets/figure_1.png"></img></p>
 <p>Figure 1. Location map of the Macolod Corridor in southwestern Luzon. Boundaries of the Macolod Corridor were adapted from Förster et al. (1990). Outlines of monogenetic volcanoes are drawn in red.</p><br>
-<img align="center" src="assets/figure_5.png"></img>
+<p align="center"><img src="assets/figure_5.png"></img></p>
 <p>Figure 5. Distribution of basal width (Wb) and height (H) of the 45 characterized monogenetic volcanoes in the Macolod Corridor.</p><br>
 <p align="center"><img src="assets/figure_6.png"></img></p>
 <p>Figure 6. Distribution of average slope angles of the whole edifices of the 45 characterized monogenetic volcanoes in the Macolod Corridor.</p><br>
