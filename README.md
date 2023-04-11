@@ -27,3 +27,15 @@ Engielle Mae R. Paguican-Fabbro, Ph. D.<br>
 Department of Geography<br>
 Vrije Universiteit Brussel</i>
 </p>
+
+## Dependencies
+
+pip install numpy
+pip install pandas
+pip install matplotlib
+pip install seaborn
+
+## Support 
+
+Contact me:
+- [toribio.eft@gmail.com](mailto:toribio.eft@gmail.com "toribio.eft@gmail.com")
