@@ -37,5 +37,5 @@ pip install seaborn
 ```
 ## Support 
 
-Contact me:
+Contact me if you would like a copy of my manuscript.
 - [toribio.eft@gmail.com](mailto:toribio.eft@gmail.com "toribio.eft@gmail.com")
