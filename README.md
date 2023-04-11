@@ -32,27 +32,27 @@ Vrije Universiteit Brussel</i>
 
 ## Figures
 ![Figure 1](assets/figure_1.png)
-Figure 1. Location map of the Macolod Corridor in southwestern Luzon. Boundaries of the Macolod Corridor were adapted from Förster et al. (1990). Outlines of monogenetic volcanoes are drawn in red.
+Figure 1. Location map of the Macolod Corridor in southwestern Luzon. Boundaries of the Macolod Corridor were adapted from Förster et al. (1990). Outlines of monogenetic volcanoes are drawn in red.<br><br>
 ![Figure 5](assets/figure_5.png)
-Figure 5. Distribution of basal width (Wb) and height (H) of the 45 characterized monogenetic volcanoes in the Macolod Corridor.
+Figure 5. Distribution of basal width (Wb) and height (H) of the 45 characterized monogenetic volcanoes in the Macolod Corridor.<br><br>
 ![Figure 6](assets/figure_6.png)
-Figure 6. Distribution of average slope angles of the whole edifices of the 45 characterized monogenetic volcanoes in the Macolod Corridor.
+Figure 6. Distribution of average slope angles of the whole edifices of the 45 characterized monogenetic volcanoes in the Macolod Corridor.<br><br>
 ![Figure 7](assets/figure_7.png)
-Figure 7. Sectorial values of median slope angles (gold), mean slope angles (light yellow), and whole-edifice average slope (blue) of monogenetic cones and domes in the Macolod Corridor.
+Figure 7. Sectorial values of median slope angles (gold), mean slope angles (light yellow), and whole-edifice average slope (blue) of monogenetic cones and domes in the Macolod Corridor.<br><br>
 ![Figure 8](assets/figure_8.png)
-Figure 8. Distribution of the coefficient of variation of the sectorial median slope angles (CVsector) of characterized monogenetic volcanoes in the Macolod Corridor, grouped according to volcano type.
+Figure 8. Distribution of the coefficient of variation of the sectorial median slope angles (CVsector) of characterized monogenetic volcanoes in the Macolod Corridor, grouped according to volcano type.<br><br>
 ![Figure 9](assets/figure_9.png)
-Figure 9. Plots of height-basal width ratio and average slope angle vs. coefficient of variation of the sectorial median slope angles. The orange lines of best fit illustrate the medium negative linear relationship of CVsector with H/Wb and total average slope, respectively.
+Figure 9. Plots of height-basal width ratio and average slope angle vs. coefficient of variation of the sectorial median slope angles. The orange lines of best fit illustrate the medium negative linear relationship of CVsector with H/Wb and total average slope, respectively.<br><br>
 ![Figure 10](assets/figure_10.png)
-Figure 10. Faults in the Macolod Corridor drawn in white and volcano boundaries drawn in red. Rose diagrams show the preferential alignment of both faults and volcano base elongations along the NE. Also shown are rose diagrams of the azimuth of the sector with maximum or minimum median slope.
+Figure 10. Faults in the Macolod Corridor drawn in white and volcano boundaries drawn in red. Rose diagrams show the preferential alignment of both faults and volcano base elongations along the NE. Also shown are rose diagrams of the azimuth of the sector with maximum or minimum median slope.<br><br>
 ![Figure 11](assets/figure_11.png)
-Figure 11. Boxplots showing the ranges of the median slope angles of the sectors of volcanoes in the Macolod Corridor with available geochemical data, plotted according to increasing median values from left to right.
+Figure 11. Boxplots showing the ranges of the median slope angles of the sectors of volcanoes in the Macolod Corridor with available geochemical data, plotted according to increasing median values from left to right.<br><br>
 ![Figure 12](assets/figure_12.png)
-Figure 12. Boxplots showing the ranges of the median slope angles of the sectors of volcanoes in the Macolod Corridor with available geochemical data, plotted according to increasing CVsector i.e., asymmetry, from left to right.
+Figure 12. Boxplots showing the ranges of the median slope angles of the sectors of volcanoes in the Macolod Corridor with available geochemical data, plotted according to increasing CVsector i.e., asymmetry, from left to right.<br><br>
 ![Figure 13](assets/figure_13.png)
-Figure 13. Boxplots showing the ranges of the median slope angles of the sectors of the 6 volcanoes with available geochronological data, ordered from left to right according to decreasing age. Geochronological ages are also indicated below the volcano names. The green line plot illustrates the trend of the coefficient of variation of the sectorial median slope angles (CVsector) across the 6 volcanoes.
+Figure 13. Boxplots showing the ranges of the median slope angles of the sectors of the 6 volcanoes with available geochronological data, ordered from left to right according to decreasing age. Geochronological ages are also indicated below the volcano names. The green line plot illustrates the trend of the coefficient of variation of the sectorial median slope angles (CVsector) across the 6 volcanoes.<br><br>
 ![Figure 14](assets/figure_14.png)
-Figure 14. Hillshade images of Banahaw and San Cristobal (A) and Makiling (B). Highlighted in white are the monogenetic volcanoes emplaced on the flanks of these volcanoes. The blue sector is the least steep sector while the red sector is the steepest sector.
+Figure 14. Hillshade images of Banahaw and San Cristobal (A) and Makiling (B). Highlighted in white are the monogenetic volcanoes emplaced on the flanks of these volcanoes. The blue sector is the least steep sector while the red sector is the steepest sector.<br>
 ## Dependencies
 ```
 pip install jupyter
