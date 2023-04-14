@@ -2,7 +2,7 @@
 
 Repository of map figures (created using QGIS and GeoRose) and Python code used for data analysis and visualization in my undergraduate thesis titled *Morphometric analysis of monogenetic volcanoes in the Macolod Corridor using MORVOLC and the sectorial approach*
 
-***This undergraduate thesis is pending publication.***
+***This undergraduate thesis is pending publication. Data available upon request from the author***
 
 ## Title
 **Morphometric analysis of monogenetic volcanoes in the Macolod Corridor using MORVOLC and the sectorial approach**
@@ -64,5 +64,5 @@ pip install seaborn
 ```
 ## Support 
 
-Contact me if you would like a copy of my manuscript.
+Contact me if you would like to request the data used.
 - [toribio.eft@gmail.com](mailto:toribio.eft@gmail.com "toribio.eft@gmail.com")
